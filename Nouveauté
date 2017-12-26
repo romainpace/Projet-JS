@@ -1,5 +1,0 @@
-https://jsbin.com/quguriz/1/edit?html,css,js,output
-
-=> Création d'un perso (carré pour l'instant) et de balles (ça peut être obstacles, ennemies, ..) avec les classes ES6.
-Pbm: déplacement du perso ne marche pas encore.
-A faire : régler collision entre Perso et balles
